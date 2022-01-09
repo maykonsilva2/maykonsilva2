@@ -9,7 +9,7 @@
   
 ##
  <div>
-   <a href = "mailto:mayconvdl@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href = "mailto:mayconvdl@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ant%C3%B4nio-michael-7921871b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
 <!---
