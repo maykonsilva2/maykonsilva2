@@ -8,6 +8,11 @@
 </div>
   
 ##
+  
+ <div>
+   <a href = "mailto:mayconvdl@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ant%C3%B4nio-michael-7921871b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div>
 <!---
 maykonsilva2/maykonsilva2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
