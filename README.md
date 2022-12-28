@@ -1,5 +1,5 @@
 ## Olá, eu sou Antonio Michael
-- 🌱 Estudando Desenvolvimento front-end
+- 🌱 Estudando Desenvolvimento Back-end
 ##
 <div align="center">
   <a href="https://github.com/maykonsilva2">
