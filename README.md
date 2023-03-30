@@ -1,5 +1,5 @@
 ## Olá, eu sou Antonio Michael
-- 🌱 Estudando Desenvolvimento Back-end
+- 🌱 Sou estudante de ciência da computação e programador BackEnd. Tenho conhecimento em linguagens de programação como Python e Django, algoritmos, banco de dados SQL e MySQL, e ferramentas de controle de versão como Git e Github. Sou capaz de analisar problemas e soluções computacionais com criatividade e lógica. Além disso, tenho habilidades de comunicação, que me permitem trabalhar em equipe e receber feedbacks. Estou sempre me atualizando sobre as novas tendências e ferramentas do mercado, buscando aprimorar minhas competências e oferecer soluções inovadoras e criativas para os desafios propostos.
 ##
 <div align="center">
   <a href="https://github.com/maykonsilva2">
