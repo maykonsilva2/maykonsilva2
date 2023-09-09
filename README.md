@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykonsilva2&color=yellow" alt="Profile views" /> </p>
 
 ##
-- 🌱 Sou estudante de ciência da computação e programador BackEnd. Tenho conhecimento em linguagens de programação como Python e Django, algoritmos, banco de dados SQL e MySQL, e ferramentas de controle de versão como Git e Github. Sou capaz de analisar problemas e soluções computacionais com criatividade e lógica. Além disso, tenho habilidades de comunicação, que me permitem trabalhar em equipe e receber feedbacks. Estou sempre me atualizando sobre as novas tendências e ferramentas do mercado, buscando aprimorar minhas competências e oferecer soluções inovadoras e criativas para os desafios propostos.
+- 🌱I'm a computer science student and Mobile Android programmer. I have knowledge in programming languages like Java and Kotlin and version control tools like Git and GitHub. I am able to analyze computational problems and solutions with creativity and logic. In addition, I have communication skills that allow me to work in a team and receive feedback. I am always updating myself on new trends and market tools, seeking to improve my skills and offer innovative and creative solutions to the proposed challenges.
 ##
 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-AntônioMichael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-michael-dev/)](https://www.linkedin.com/in/antonio-michael-dev/)
