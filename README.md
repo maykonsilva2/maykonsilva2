@@ -2,7 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykonsilva2&color=yellow" alt="Profile views" /> </p>
 
 ## About me:🧑‍🚀
-##
 - 🌱I'm a computer science student and Mobile Android programmer. I have knowledge in programming languages like Java and Kotlin and version control tools like Git and GitHub. I am able to analyze computational problems and solutions with creativity and logic. In addition, I have communication skills that allow me to work in a team and receive feedback. I am always updating myself on new trends and market tools, seeking to improve my skills and offer innovative and creative solutions to the proposed challenges.
 ##
 
