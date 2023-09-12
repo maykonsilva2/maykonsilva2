@@ -1,6 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Antonio Michael <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykonsilva2&color=yellow" alt="Profile views" /> </p>
 
+## About me:🧑‍🚀
 ##
 - 🌱I'm a computer science student and Mobile Android programmer. I have knowledge in programming languages like Java and Kotlin and version control tools like Git and GitHub. I am able to analyze computational problems and solutions with creativity and logic. In addition, I have communication skills that allow me to work in a team and receive feedback. I am always updating myself on new trends and market tools, seeking to improve my skills and offer innovative and creative solutions to the proposed challenges.
 ##
@@ -27,7 +28,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykonsilva2&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-##
+## Social networks: :busts_in_silhouette:
  <div>
    <a href = "mailto:mayconvdl@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/antonio-michael-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
