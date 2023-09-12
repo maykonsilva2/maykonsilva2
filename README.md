@@ -5,6 +5,11 @@
 - 🌱I'm a computer science student and Mobile Android programmer. I have knowledge in programming languages like Java and Kotlin and version control tools like Git and GitHub. I am able to analyze computational problems and solutions with creativity and logic. In addition, I have communication skills that allow me to work in a team and receive feedback. I am always updating myself on new trends and market tools, seeking to improve my skills and offer innovative and creative solutions to the proposed challenges.
 ##
 
+**Skills: :computer:**
+
+- JAVA | KOTLIN <br />
+- GIT | GITHUB <br />
+
 <!--[![Linkedin Badge](https://img.shields.io/badge/-AntônioMichael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-michael-dev/)](https://www.linkedin.com/in/antonio-michael-dev/)
 -->
 
