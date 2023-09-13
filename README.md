@@ -19,7 +19,7 @@
 </a>
 <a href="">
     <img
-        src="./kotlin.svg"
+        src="./kotlin_1.svg"
         title="Kotlin"
         alt="Kotlin"
         height="60px">
