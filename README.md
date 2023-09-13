@@ -38,6 +38,13 @@
         alt="git"
         height="60px">
 </a>
+<a href="https://developer.android.com/studio">
+    <img
+        src="./android_studio_1.svg"
+        title="Android studio"
+        alt="Android Studio"
+        height="60px">
+</a>
 <br/>
 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-AntônioMichael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-michael-dev/)](https://www.linkedin.com/in/antonio-michael-dev/)
