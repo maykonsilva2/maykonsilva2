@@ -10,7 +10,20 @@
 
 **Skills: :computer:**
 
-- JAVA | KOTLIN <br />
+<a href="https://oracle.com/ru/java/">
+    <img
+        src="./java.svg"
+        title="Java"
+        alt="Java"
+        height="60px">
+</a>
+<a href="">
+    <img
+        src="./"
+        title="Kotlin"
+        alt="Kotlin"
+        height="60px">
+</a><br/>
 - GIT | GITHUB <br />
 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-AntônioMichael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-michael-dev/)](https://www.linkedin.com/in/antonio-michael-dev/)
