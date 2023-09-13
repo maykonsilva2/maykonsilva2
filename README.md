@@ -19,21 +19,21 @@
 </a>
 <a href="">
     <img
-        src="./"
+        src="./kotlin.svg"
         title="Kotlin"
         alt="Kotlin"
         height="60px">
 </a>
 <a href="https://github.com/">
     <img
-        src="assets/github.svg"
+        src="./github.svg"
         title="GitHub"
         alt="GitHub"
         height="60px">
 </a>
 <a href="https://git-scm.com/">
     <img
-        src="assets/git.svg"
+        src="./git.svg"
         title="Git"
         alt="git"
         height="60px">
