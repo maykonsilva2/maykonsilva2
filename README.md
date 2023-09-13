@@ -2,6 +2,11 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Antonio Michael <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykonsilva2&color=yellow" alt="Profile views" /> </p>
+ <div>
+   <a href = "mailto:mayconvdl@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/antonio-michael-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <!--  <a href = ""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"><a/>  -->
+ </div>
 
 ## About me:🧑‍🚀
 
@@ -63,13 +68,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maykonsilva2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykonsilva2&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  
-## Social networks: :busts_in_silhouette:
- <div>
-   <a href = "mailto:mayconvdl@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/antonio-michael-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- </div>
 
+<!--
+## Social networks: :busts_in_silhouette:
+-->
 <!---
 maykonsilva2/maykonsilva2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
