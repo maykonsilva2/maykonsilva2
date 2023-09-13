@@ -51,6 +51,7 @@
         height="60px">
 </a>
 <br/>
+<br/>
 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-AntônioMichael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-michael-dev/)](https://www.linkedin.com/in/antonio-michael-dev/)
 -->
@@ -62,10 +63,12 @@
 <p align="left"> <a href="https://www.java.com" target="_new" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 -->
 
-
+<br/>
+<br/>
 <div align="center">
   <a href="https://github.com/maykonsilva2">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maykonsilva2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height = "150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maykonsilva2&layout=compact&langs_count=7&theme=tokyonight"">
+<!--  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maykonsilva2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykonsilva2&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
