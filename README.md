@@ -23,8 +23,22 @@
         title="Kotlin"
         alt="Kotlin"
         height="60px">
-</a><br/>
-- GIT | GITHUB <br />
+</a>
+<a href="https://github.com/">
+    <img
+        src="assets/github.svg"
+        title="GitHub"
+        alt="GitHub"
+        height="60px">
+</a>
+<a href="https://git-scm.com/">
+    <img
+        src="assets/git.svg"
+        title="Git"
+        alt="git"
+        height="60px">
+</a>
+<br/>
 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-AntônioMichael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-michael-dev/)](https://www.linkedin.com/in/antonio-michael-dev/)
 -->
