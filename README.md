@@ -10,7 +10,8 @@
 
 ## About me:🧑‍🚀
 
-- 🌱I'm a computer science student and Mobile Android programmer. I have knowledge in programming languages like Java and Kotlin and version control tools like Git and GitHub. I am able to analyze computational problems and solutions with creativity and logic. In addition, I have communication skills that allow me to work in a team and receive feedback. I am always updating myself on new trends and market tools, seeking to improve my skills and offer innovative and creative solutions to the proposed challenges.
+- 🌱 I'm a computer science student with a solid understanding of basic Java programming concepts and object-oriented principles in Java.
+I have practical knowledge of programming languages such as Java and Kotlin, and SQL skills, which allows me to manage and manipulate databases efficiently. I expanded my technical repertoire to include the development of robust applications using the Spring Boot framework, which allows me to build scalable and secure backend systems. Additionally, I have experience with version control tools like Git and GitHub. I am always attentive to new trends and tools in the market, continually seeking to improve my skills to offer innovative and creative solutions to the challenges proposed.
 ##
 
 **Skills: :computer:**
@@ -48,6 +49,13 @@
         src="./android_studio_1.svg"
         title="Android studio"
         alt="Android Studio"
+        height="60px">
+</a>
+<a href="https://spring.io/projects/spring-boot">
+    <img
+        src="./springboot.svg"
+        title="Springboot"
+        alt="Springboot"
         height="60px">
 </a>
 <br/>
