@@ -1,4 +1,4 @@
-<img align="center" src="./215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif?raw=true" alt="img-profile"/>
+<!--<img align="center" src="./215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif?raw=true" alt="img-profile"/>-->
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Antonio Michael <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykonsilva2&color=yellow" alt="Profile views" /> </p>
@@ -44,13 +44,13 @@ I have practical knowledge of programming languages such as Java and Kotlin, and
         alt="git"
         height="60px">
 </a>
-<a href="https://developer.android.com/studio">
+<!--<a href="https://developer.android.com/studio">
     <img
         src="./android_studio_1.svg"
         title="Android studio"
         alt="Android Studio"
         height="60px">
-</a>
+</a>-->
 <a href="https://spring.io/projects/spring-boot">
     <img
         src="./springboot.svg"
