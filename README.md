@@ -51,6 +51,7 @@ I have practical knowledge of programming languages such as Java and Kotlin, and
         alt="Android Studio"
         height="60px">
 </a>-->
+<!--
 <a href="https://spring.io/projects/spring-boot">
     <img
         src="./springboot.svg"
@@ -58,6 +59,7 @@ I have practical knowledge of programming languages such as Java and Kotlin, and
         alt="Springboot"
         height="60px">
 </a>
+-->
 <br/>
 <br/>
 
