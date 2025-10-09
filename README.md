@@ -15,7 +15,7 @@ I have practical knowledge of programming languages such as Java and Kotlin, and
 ##
 
 **Skills: :computer:**
-
+<!--
 <a href="https://oracle.com/ru/java/">
     <img
         src="./java.svg"
@@ -29,7 +29,7 @@ I have practical knowledge of programming languages such as Java and Kotlin, and
         title="Kotlin"
         alt="Kotlin"
         height="60px">
-</a>
+</a>-->
 <a href="https://github.com/">
     <img
         src="./github.svg"
