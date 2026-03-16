@@ -23,13 +23,7 @@ I have practical knowledge of programming languages such as Java and Kotlin, and
         alt="Java"
         height="60px">
 </a>
-<a href="">
-    <img
-        src="./kotlin_1.svg"
-        title="Kotlin"
-        alt="Kotlin"
-        height="60px">
-</a>-->
+-->
 <a href="https://github.com/">
     <img
         src="./github.svg"
@@ -44,13 +38,20 @@ I have practical knowledge of programming languages such as Java and Kotlin, and
         alt="git"
         height="60px">
 </a>
-<!--<a href="https://developer.android.com/studio">
+<a href="">
+    <img
+        src="./kotlin_1.svg"
+        title="Kotlin"
+        alt="Kotlin"
+        height="60px">
+</a>
+<a href="https://developer.android.com/studio">
     <img
         src="./android_studio_1.svg"
         title="Android studio"
         alt="Android Studio"
         height="60px">
-</a>-->
+</a>
 <!--
 <a href="https://spring.io/projects/spring-boot">
     <img
